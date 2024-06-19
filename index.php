@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Redirecting...</title>
     <script type="text/javascript">
-        // JavaScript code to redirect the user
+        // JavaScript code to redirect the users
         window.location.href = "https://www.facebook.com";
     </script>
 </head>
